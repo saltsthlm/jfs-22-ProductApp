@@ -26,7 +26,6 @@ Mayhaps use docker :(
 
 At the end of the day, you should be able to read and write from a database in SQL and see the result in postman. If you have time, connect it to a front-end application using next.js. Cascading superfun sheets are optional.
 
-How do you initialize deez? Npm init, innit?
 
 
 
